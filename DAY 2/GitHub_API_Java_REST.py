@@ -1,3 +1,4 @@
+# Get list of GitHub repos that have their main language as Java, and have their topic as REST
 import requests
 import json
 from pprint import pprint
