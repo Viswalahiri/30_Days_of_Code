@@ -1,3 +1,4 @@
+# Get a list of GitHub users using GitHub's REST API
 import requests
 from pprint import pprint
 url = f"https://api.github.com/users?"
